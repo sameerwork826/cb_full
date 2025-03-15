@@ -12,7 +12,7 @@ This repository contains code examples and exercises from various programming co
 Clone this repository to get started:
 
 ```bash
-git clone https://github.com/sameerwork826/codebasics.git
+git clone https://github.com/sameerwork826/cb.git
 cd codebasics
 ```
 

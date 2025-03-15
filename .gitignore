@@ -38,8 +38,30 @@ ENV/
 Thumbs.db
 
 # Large data directories
-deep_learning/11.cnn/data/
 deep_learning/*/data/
-deep_learning/*/dataset/
-deep_learning/*/datasets/
-deep_learning/*/Download files/ 
+deep_learning/10.hyper_tuning/data/
+deep_learning/11.cnn/data/
+*.tar.gz
+*.ubyte
+*.gz
+*.pkl
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.npz
+*.npy
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db 
