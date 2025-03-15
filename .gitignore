@@ -35,4 +35,11 @@ ENV/
 
 # OS specific files
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Large data directories
+deep_learning/11.cnn/data/
+deep_learning/*/data/
+deep_learning/*/dataset/
+deep_learning/*/datasets/
+deep_learning/*/Download files/ 
