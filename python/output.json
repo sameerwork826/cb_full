@@ -1,0 +1,16 @@
+{
+    "name": "Maulik",
+    "age": 20,
+    "city": "Rajkot",
+    "is_student": true,
+    "courses": [
+        "Python",
+        "SQL",
+        "Machine Learning"
+    ],
+    "address": {
+        "street": "123,Main St",
+        "city": "Rajkot",
+        "zip": "360001"
+    }
+}
